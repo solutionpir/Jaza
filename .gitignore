@@ -1,0 +1,17 @@
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and local diagnostic output
+*.log
+*.out
+*.tmp
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+secrets/
+local-config/
