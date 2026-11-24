@@ -1,10 +1,10 @@
-# Changelog
-
+Changelog
 All notable changes to this project will be documented here.
-
-## 0.1.0 — Project bootstrap
-
-- Add a read-only PowerShell check for local TCP listeners.
-- Add a loopback TCP connectivity test.
-- Report Node.js availability as an informational check.
-- Document scope, limitations, security expectations, and contribution guidance.
+0.1.1 — Privacy-neutral documentation and utility
+Use a neutral project description focused on local TCP port checks.
+Prompt for the port at runtime instead of defining a preset value.
+Add a generic local TCP port-checking script and troubleshooting guide.
+Remove references that are unrelated to the project's stated purpose.
+0.1.0 — Project bootstrap
+Establish the Jaza repository and MIT license.
+Add initial project, contribution, and security documentation.
